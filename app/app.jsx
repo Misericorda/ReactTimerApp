@@ -6,8 +6,8 @@ import Main from 'Main';
 import Countdown from 'Countdown';
 import Timer from 'Timer';
 // Load foundation
-require('style-loader!css-loader!foundation-sites/dist/css/foundation.min.css');
-require('style-loader!css-loader!foundation-sites/dist/css/foundation-float.min.css');
+// require('style-loader!css-loader!foundation-sites/dist/css/foundation.min.css');
+// require('style-loader!css-loader!foundation-sites/dist/css/foundation-float.min.css');
 $(document).foundation();
 
 // app css
