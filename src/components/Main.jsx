@@ -10,7 +10,6 @@ const Main = (props) => {
           {props.children}
         </div>
       </div>
-      <div className="footer-cred">Dmitry Oleinik, 2016</div>
     </div>
   );
 };
